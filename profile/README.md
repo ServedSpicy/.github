@@ -12,22 +12,28 @@
 <br>
 <br>
  
-## Interface
+### Ｉｎｔｅｒｆａｃｅ
+  
+<br>
 
 [![Badge WebServer]][WebServer] 
 [![Badge Interface]][Interface] 
 [![Badge Browser]][Browser] 
 [![Badge Serial]][Serial]
 
-<br>  
+<br>
+<br>
 
-## Controller
+### Ｃｏｎｔｒｏｌｌｅｒ
+  
+<br>
   
 [![Badge Firmware]][Firmware] 
 [![Badge Hardware]][Hardware]
 
 </div>
 
+<br>
 <br>
 
 <!--////////////////////////////////| Badges |///////////////////////////////-->
