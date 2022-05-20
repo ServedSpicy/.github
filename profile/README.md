@@ -31,13 +31,13 @@
 
 <!--////////////////////////////////| Badges |///////////////////////////////-->
 
-[Badge Documentation]: https://img.shields.io/badge/Documentation-31afed?style=for-the-badge
-[Badge WebServer]: https://img.shields.io/badge/WebServer-ed8031?style=for-the-badge
-[Badge Interface]: https://img.shields.io/badge/Interface-d5ad16?style=for-the-badge
-[Badge Firmware]: https://img.shields.io/badge/Firmware-db226e?style=for-the-badge
-[Badge Hardware]: https://img.shields.io/badge/Firmware-408320?style=for-the-badge
-[Badge Browser]: https://img.shields.io/badge/Browser-42467a?style=for-the-badge
-[Badge Serial]: https://img.shields.io/badge/Serial-d12f2f?style=for-the-badge
+[Badge Documentation]: https://img.shields.io/badge/Documentation-31afed?style=for-the-badge&logoColor=white&logo=GitBook
+[Badge WebServer]: https://img.shields.io/badge/WebServer-ed8031?style=for-the-badge&logoColor=white&logo=HTML5
+[Badge Interface]: https://img.shields.io/badge/Interface-d5ad16?style=for-the-badge&logoColor=white&logo=tmux
+[Badge Firmware]: https://img.shields.io/badge/Firmware-db226e?style=for-the-badge&logoColor=white&logo=StackShare
+[Badge Hardware]: https://img.shields.io/badge/Hardware-408320?style=for-the-badge&logoColor=white&logo=CurseForge
+[Badge Browser]: https://img.shields.io/badge/Browser-42467a?style=for-the-badge&logoColor=white&logo=FirefoxBrowser
+[Badge Serial]: https://img.shields.io/badge/Serial-d12f2f?style=for-the-badge&logoColor=white&logo=Arduino
 
 
 <!--////////////////////////////////| Links |////////////////////////////////-->
