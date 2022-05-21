@@ -2,7 +2,7 @@
 
 # 🔥 ServedSpicy 🔥
 
-***FOSS Spice Mixing Machine***
+***FOSS Spice Mixing Machines***
 
 <br>
 <br>
