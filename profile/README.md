@@ -38,7 +38,7 @@
 
 <!--////////////////////////////////| Badges |///////////////////////////////-->
 
-[Badge Documentation]: https://img.shields.io/badge/Documentation-31afed?style=for-the-badge&logoColor=white&logo=GitBook
+[Badge Documentation]: https://img.shields.io/badge/Documentation-31afed?style=for-the-badge&logoColor=white&logo=BookStack
 [Badge Client]: https://img.shields.io/badge/Client-ed8031?style=for-the-badge&logoColor=white&logo=Blueprint
 [Badge Interface]: https://img.shields.io/badge/Interface-d5ad16?style=for-the-badge&logoColor=white&logo=tmux
 [Badge Firmware]: https://img.shields.io/badge/Firmware-db226e?style=for-the-badge&logoColor=white&logo=StackShare
