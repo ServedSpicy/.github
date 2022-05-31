@@ -2,8 +2,6 @@
 
 [![Header]][#]
 
-<br>
-<br>
 
 [![Button Support]][Support]            
 [![Button Develop]][Develop]
