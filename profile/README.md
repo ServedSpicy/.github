@@ -1,6 +1,6 @@
 <div align = center>
 
-[![Header]](#)
+[![Header]][#]
 
 <br>
 <br>
@@ -21,3 +21,5 @@
 
 [Develop]: https://github.com/ServedSpicy/Documentation
 [Support]: https://github.com/ServedSpicy/Support
+
+[#]: #
